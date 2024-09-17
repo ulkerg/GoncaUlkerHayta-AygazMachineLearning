@@ -25,6 +25,12 @@ weighted avg       0.99      0.99      0.99     34692
 while also achieving strong results for churners (Class 1) with a precision of 0.94 and recall of 0.93. 
 Overall, the model maintains a high accuracy of 0.98, demonstrating robust performance even with the class imbalance.
 
+#
+
 Unsupervised
+
 Silhouette Score: 0.42231604790285676
 
+#In a churn prediction problem, we cannot directly use unsupervised learning algorithms. In such problems, we can perform clustering to identify customer segments with a high likelihood of churn. After clustering, it would be more appropriate to continue with supervised algorithms.
+
+#In this project, I aimed to select the right features and the optimal number of clusters to achieve a high Silhouette Score. Looking at the Silhouette Score, we can say that the clustering is bad.
