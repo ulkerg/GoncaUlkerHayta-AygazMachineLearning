@@ -1,4 +1,7 @@
 # GoncaUlkerHayta-AygazMachineLearning
+
+Since I am interested in data analytics, I chose the Churn Prediction problem.
+
 Machine Learning Algorithms for Churn Prediction
 
 https://www.kaggle.com/code/goncalkerhayta/notebookcc0225f70d/edit/run/196994669
@@ -31,6 +34,7 @@ Overall, the model maintains a high accuracy of 0.98, demonstrating robust perfo
 #Increased Recall value with trained model. For churn prediction, we can say that the Decision Tree algorithm works quite well.
 
 Unsupervised
+K-Means
 
 Silhouette Score: 0.42231604790285676
 
