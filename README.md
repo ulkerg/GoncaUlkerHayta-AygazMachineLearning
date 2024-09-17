@@ -1,5 +1,8 @@
 # GoncaUlkerHayta-AygazMachineLearning
 Machine Learning Algorithms for Churn Prediction
+
+https://www.kaggle.com/code/goncalkerhayta/notebookcc0225f70d/edit/run/196994669
+
 Supervised
 *****Decision Tree*****
               precision    recall  f1-score   support
@@ -25,7 +28,7 @@ weighted avg       0.99      0.99      0.99     34692
 while also achieving strong results for churners (Class 1) with a precision of 0.94 and recall of 0.93. 
 Overall, the model maintains a high accuracy of 0.98, demonstrating robust performance even with the class imbalance.
 
-#
+#Increased Recall value with trained model. For churn prediction, we can say that the Decision Tree algorithm works quite well.
 
 Unsupervised
 
