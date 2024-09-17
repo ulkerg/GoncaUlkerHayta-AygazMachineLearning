@@ -26,3 +26,5 @@ while also achieving strong results for churners (Class 1) with a precision of 0
 Overall, the model maintains a high accuracy of 0.98, demonstrating robust performance even with the class imbalance.
 
 Unsupervised
+Silhouette Score: 0.42231604790285676
+
