@@ -10,3 +10,12 @@ Machine Learning Algorithms for Churn Prediction
    macro avg       0.96      0.96      0.96     34692
 weighted avg       0.98      0.98      0.98     34692
 
+*****Decision Tree*****Trained
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00     30419
+           1       0.98      0.96      0.97      4273
+
+    accuracy                           0.99     34692
+   macro avg       0.99      0.98      0.98     34692
+weighted avg       0.99      0.99      0.99     34692
