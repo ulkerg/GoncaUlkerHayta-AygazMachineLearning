@@ -2,7 +2,7 @@
 
 Since I am interested in data analytics, I chose the Churn Prediction problem.
 
-Machine Learning Algorithms for Churn Prediction
+Machine Learning Algorithms for Churn Prediction (file: botswana_bank_customer_churn.csv)
 
 https://www.kaggle.com/code/goncalkerhayta/notebookcc0225f70d/edit/run/196994669
 
