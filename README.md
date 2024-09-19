@@ -41,4 +41,4 @@ Silhouette Score: 0.42231604790285676
 
 #In a churn prediction problem, we cannot directly use unsupervised learning algorithms. In such problems, we can perform clustering to identify customer segments with a high likelihood of churn. After clustering, it would be more appropriate to continue with supervised algorithms.
 
-#In this project, I aimed to select the right features and the optimal number of clusters to achieve a high Silhouette Score. Looking at the Silhouette Score, we can say that the clustering is bad.
+#In this project, I aimed to select the right features and the optimal number of clusters to achieve a high Silhouette Score. Looking at the Silhouette Score, we can say that the clustering is bad. The K-means algorithm does not seem to be suitable for churn estimation.
